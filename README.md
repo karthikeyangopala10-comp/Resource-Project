@@ -19,6 +19,7 @@ Here is what the program will be capable of:
 
 ###1/26/2026
 Made the code to donate food with name and quantity, and allow you to view the current donation entries
+- [Resource-Java-File](https://github.com/karthikeyangopala10-comp/karthikeyangopala10-comp/blob/main/Resource.java)
 
 ###1/27/2026
 Nothing much, just made the parts to ask for asking your choice(to donate to see current entries), and the actual actions as methods
