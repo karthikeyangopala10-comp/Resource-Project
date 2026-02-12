@@ -14,6 +14,8 @@ Here is what the program will be capable of:
   - utilize google maps
   - find distance to closest food bank and check whether the food bank has the required food
 - Then you can exit, and all data is saved to a file
+##Features in process
+- being able to allow foods well before their expiration date
 
 ##Documentation:
 
